@@ -11,14 +11,16 @@ The system is developed using cutting-edge technologies and follows modern devel
 ### Screenshots:
 
 <p align="center">
-  <img src="https://i.ibb.co/LW4Vw4H/1.jpg" alt="Screenshot 1" />
-  <img src="https://i.ibb.co/C5PsgY9D/2.jpg" alt="Screenshot 1" />
+  <img src="https://i.ibb.co/LW4Vw4H/1.jpg" alt="Screenshot 1"  width="400" height="200" />
+  <img src="https://i.ibb.co/C5PsgY9D/2.jpg" alt="Screenshot 1"  width="400" height="200" />
   <img src="https://i.ibb.co/gLLT6r75/3.jpg" alt="Screenshot 1" width="400" height="200"/>
-  <img src="https://i.postimg.cc/CxxwCz4Y/5.png" alt="Screenshot 1" width="400" height="200"/>
-  <img src="https://i.postimg.cc/kgYqTqjS/6.png" alt="Screenshot 1" width="400" height="200"/>
-  <img src="https://i.postimg.cc/3wy76V6c/7.png" alt="Screenshot 1" width="400" height="200"/>
-  <img src="https://i.postimg.cc/8CFJHyb1/8.png" alt="Screenshot 1" width="400" height="200"/>
-  
+  <img src="https://i.ibb.co/bjY1dcft/4.jpg" alt="Screenshot 1" width="400" height="200"/>
+  <img src="https://i.ibb.co/Hf0LBd2T/5.jpg" alt="Screenshot 1" width="400" height="200"/>
+  <img src="https://i.ibb.co/BKZtD2tN/6.jpg" alt="Screenshot 1" width="400" height="200"/>
+  <img src="https://i.ibb.co/CsmkRHhT/7.jpg" alt="Screenshot 1" width="400" height="200"/>
+  <img src="https://i.ibb.co/4nGJLzGd/8.jpg" alt="Screenshot 1" width="400" height="200"/>
+  <img src="https://i.ibb.co/sp9h5d4S/9.jpg" alt="Screenshot 1" width="400" height="200"/>
+ 
 </p>
 
 
