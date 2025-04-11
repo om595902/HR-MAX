@@ -13,8 +13,7 @@ The system is developed using cutting-edge technologies and follows modern devel
 <p align="center">
   <img src="https://i.ibb.co/LW4Vw4H/1.jpg" alt="Screenshot 1" />
   <img src="https://i.ibb.co/C5PsgY9D/2.jpg" alt="Screenshot 1" />
-  <img src="https://i.ibb.co/Kppqm5GM/3.jpg" alt="Screenshot 1" />
-  <img src="https://i.postimg.cc/8PDp5yJ7/4.png" alt="Screenshot 1" width="400" height="200"/>
+  <img src="https://i.ibb.co/gLLT6r75/3.jpg" alt="Screenshot 1" width="400" height="200"/>
   <img src="https://i.postimg.cc/CxxwCz4Y/5.png" alt="Screenshot 1" width="400" height="200"/>
   <img src="https://i.postimg.cc/kgYqTqjS/6.png" alt="Screenshot 1" width="400" height="200"/>
   <img src="https://i.postimg.cc/3wy76V6c/7.png" alt="Screenshot 1" width="400" height="200"/>
