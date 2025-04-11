@@ -11,8 +11,27 @@ The system is developed using cutting-edge technologies and follows modern devel
 ### Screenshots:
 
 <p align="center">
-  [Add screenshots of your HR-MAX system here, following the same format]
+  <img src="https://ibb.co/8ngJzLw3" alt="Screenshot 1" width="200" height="350"/>
+  <img src="https://ibb.co/q3fx8Kf5" alt="Screenshot 1" width="200" height="350"/>
+    <img src="https://ibb.co/HpBW5Hnk" alt="Screenshot 1" width="200" height="350"/>
+    <img src="https://ibb.co/n8cb2MbC" alt="Screenshot 1" width="200" height="350"/>
+    <img src="https://ibb.co/5XCTcb7Z" alt="Screenshot 1" width="200" height="350"/>
+    <img src="https://ibb.co/Kppqm5GM" alt="Screenshot 1" width="200" height="350"/>
+    <img src="https://ibb.co/DDrghvMT" alt="Screenshot 1" width="200" height="350"/>
+    <img src="https://ibb.co/3qtgXtQ" alt="Screenshot 1" width="200" height="350"/>
+
+
+
+
+
+
+
+
+
+
+
 </p>
+
 
 ---
 ## System Analysis and Development
