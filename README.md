@@ -1,4 +1,4 @@
-# HR-MAX
+![image](https://github.com/user-attachments/assets/40ae6620-08ee-465c-a730-2ab8735f09cb)![image](https://github.com/user-attachments/assets/7c896462-d928-4bef-965d-44f5220dcd35)# HR-MAX
 
 Warning: This system supports multiple languages including English and Arabic
 
@@ -12,8 +12,8 @@ The system is developed using cutting-edge technologies and follows modern devel
 
 <p align="center">
   <img src="https://i.ibb.co/LW4Vw4H/1.jpg" alt="Screenshot 1" width="400" height="200"/>
-  <img src="https://ibb.co/DDrghvMT/2.png" alt="Screenshot 1" width="400" height="200"/>
-  <img src="https://i.postimg.cc/X78VywdQ/3.png" alt="Screenshot 1" width="400" height="200"/>
+  <img src="https://i.ibb.co/C5PsgY9D/2.jpg" alt="Screenshot 1" width="400" height="200"/>
+  <img src="https://i.ibb.co/Kppqm5GM/3.jpg" alt="Screenshot 1" width="400" height="200"/>
   <img src="https://i.postimg.cc/8PDp5yJ7/4.png" alt="Screenshot 1" width="400" height="200"/>
   <img src="https://i.postimg.cc/CxxwCz4Y/5.png" alt="Screenshot 1" width="400" height="200"/>
   <img src="https://i.postimg.cc/kgYqTqjS/6.png" alt="Screenshot 1" width="400" height="200"/>
